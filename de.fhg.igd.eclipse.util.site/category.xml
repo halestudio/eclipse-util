@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="equinox-test Update Site">
+      Equinox Test Runner Application Update Site
+   </description>
+   <feature url="features/de.fhg.igd.eclipse.util.feature_1.0.0.qualifier.jar" id="de.fhg.igd.eclipse.util.feature" version="1.0.0.qualifier"/>
+   <feature url="features/de.fhg.igd.eclipse.ui.util.feature_1.0.0.qualifier.jar" id="de.fhg.igd.eclipse.ui.util.feature" version="1.0.0.qualifier"/>
+</site>

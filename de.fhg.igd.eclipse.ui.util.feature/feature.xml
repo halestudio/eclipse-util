@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="de.fhg.igd.eclipse.ui.util.feature"
+      label="Eclipse UI Utilities"
+      version="1.0.0.qualifier"
+      provider-name="Fraunhofer IGD">
+
+   <copyright>
+      Copyright 2014 Fraunhofer IGD
+   </copyright>
+
+   <license url="http://www.apache.org/licenses">
+      Apache License 2.0
+   </license>
+
+   <plugin
+         id="de.fhg.igd.eclipse.ui.util"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="de.fhg.igd.eclipse.ui.util.source"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>
